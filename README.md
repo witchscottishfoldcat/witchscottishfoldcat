@@ -12,7 +12,3 @@
 - Email: thewitchcat@163.com
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyz2021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
