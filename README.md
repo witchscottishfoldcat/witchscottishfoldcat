@@ -1,16 +1,18 @@
-## Hi there 👋
+# I'm witchcat
 
-<!--
-**witchscottishfoldcat/witchscottishfoldcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://raw.githubusercontent.com/witchscottishfoldcat/witchcat/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/witchscottishfoldcat/witchcat/master/generated/languages.svg)
+
+---
+
+### 📫 联系我
+- Email: thewitchcat@163.com
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=eyz2021&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
