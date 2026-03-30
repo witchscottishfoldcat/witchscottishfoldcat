@@ -1,6 +1,5 @@
 # I'm witchcat
 
----
 #你好我是女巫的折耳猫
 
 #这是我的技术栈
@@ -23,7 +22,7 @@
 #我的 GitHub 统计 
 #GitHub Stats Top Langs
 
-
+---
 
 ![](https://raw.githubusercontent.com/witchscottishfoldcat/witchcat/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/witchscottishfoldcat/witchcat/master/generated/languages.svg)
