@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 我的 GitHub 统计
+### 我的 GitHub 统计
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchcat/master/generated/overview.svg" alt="Overview Stats" height="170" />
