@@ -1,6 +1,6 @@
 <!-- Banner：立绘背景 + 标题（PNG，100% 渲染） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/banner.png?v=2" alt="witchcat banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/banner.png?v=3" alt="witchcat banner" />
 </p>
 
 <br>
