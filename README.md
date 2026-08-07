@@ -1,6 +1,6 @@
 <!-- Banner：立绘背景 + 标题（PNG，100% 渲染） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/hero-v4.png" alt="witchcat banner" />
+  <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/witch-hero-v2.png" alt="witchcat banner" />
 </p>
 
 <br>
@@ -93,7 +93,7 @@
 
 <p align="left">
   <img src="https://witchcat-stats.vercel.app/api?username=witchscottishfoldcat&show_icons=true&title_color=6B5B95&icon_color=6B5B95&text_color=2d3748&bg_color=ffffff&hide_border=true&count_private=true" alt="witchcat Stats" height="165" />
-  <img src="https://witchcat-stats.vercel.app/api/top-langs/?username=witchscottishfoldcat&title_color=6B5B95&text_color=2d3748&bg_color=ffffff&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://witchcat-stats.vercel.app/api/top-langs/?username=witchscottishfoldcat&title_color=6B5B95&text_color=2d3748&bg_color=ffffff&hide_border=true&layout=compact&langs_count=8&count_private=true&exclude_repo=book" alt="Top Languages" height="165" />
 </p>
 
 <hr>
