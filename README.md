@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>女巫的折耳猫</h1>
-<p><em>后端开发 &nbsp;/&nbsp; 在学</em></p>
+<p><em>后端开发 &nbsp;/&nbsp; 在职</em></p>
 <p>Java &nbsp;·&nbsp; Python</p>
 
 </div>
@@ -10,9 +10,10 @@
 
 <!-- 关于 -->
 <p>
-  &nbsp;&nbsp;&nbsp;平时主要写 Java 和 Python，后端居多。<br>
+  &nbsp;&nbsp;&nbsp;在职程序员，平时主要写 Java 和 Python，后端居多。<br>
   &nbsp;&nbsp;&nbsp;最近在看微服务和分布式相关的内容，也在用 FastAPI 做些练习。<br>
-  &nbsp;&nbsp;&nbsp;闲下来会逛逛 GitHub，看到有意思的项目会随手收藏，偶尔提点小改动。
+  &nbsp;&nbsp;&nbsp;闲下来会逛逛 GitHub，看到有意思的项目会随手收藏，偶尔提点小改动。<br>
+  &nbsp;&nbsp;&nbsp;一般在下班时间处理消息和邮件，回复可能不及时，见谅。
 </p>
 
 <p>
@@ -36,6 +37,14 @@
       <sub>Python</sub>
     </td>
     <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="38" height="38" alt="Rust"/><br>
+      <sub>Rust</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="38" height="38" alt="C#"/><br>
+      <sub>C#</sub>
+    </td>
+    <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot"/><br>
       <sub>Spring Boot</sub>
     </td>
@@ -47,12 +56,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="38" height="38" alt="Vue"/><br>
       <sub>Vue</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" height="38" alt="React"/><br>
       <sub>React</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/><br>
       <sub>MySQL</sub>
