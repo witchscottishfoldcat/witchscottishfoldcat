@@ -1,16 +1,7 @@
-<!-- 顶部：左侧标题 + 打字机，右侧立绘 -->
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="62%" valign="middle" align="left">
-      <h1>女巫的折耳猫</h1>
-      <p><em>后端开发 &nbsp;/&nbsp; 在职</em></p>
-      <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=14&duration=3000&pause=1000&color=6B5B95&center=false&vCenter=false&width=320&lines=Java+%C2%B7+Python+%C2%B7+%E5%BE%AE%E6%9C%8D%E5%8A%A1;FastAPI+%C2%B7+%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F;%E5%9C%A8%E5%AD%A6%E4%B9%A0%E9%AD%94%E6%B3%95%E2%9C%A8" alt="Typing" height="40" />
-    </td>
-    <td width="38%" valign="middle" align="right">
-      <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/witchcat.jpg" alt="witchcat" width="220" />
-    </td>
-  </tr>
-</table>
+<!-- SVG Banner：立绘背景 + 标题 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/banner.svg" alt="witchcat banner" width="100%" />
+</p>
 
 <br>
 
