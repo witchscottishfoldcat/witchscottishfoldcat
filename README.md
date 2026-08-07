@@ -1,6 +1,6 @@
-<!-- SVG Banner：立绘背景 + 标题 -->
+<!-- Banner：立绘背景 + 标题（PNG，100% 渲染） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/banner.svg" alt="witchcat banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/banner.png" alt="witchcat banner" width="100%" />
 </p>
 
 <br>
