@@ -1,0 +1,64 @@
+<svg width="100%" height="auto" viewBox="0 0 960 260" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- 立绘背景图 -->
+    <pattern id="bg" patternUnits="userSpaceOnUse" width="960" height="260">
+      <image href="https://raw.githubusercontent.com/witchscottishfoldcat/witchscottishfoldcat/main/assets/witchcat.jpg" x="0" y="0" width="960" height="260" preserveAspectRatio="xMidYRight slice"/>
+    </pattern>
+    <!-- 左侧紫色渐变遮罩（让文字可读） -->
+    <linearGradient id="shade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a1423" stop-opacity="0.92"/>
+      <stop offset="45%" stop-color="#2d1f3d" stop-opacity="0.78"/>
+      <stop offset="70%" stop-color="#2d1f3d" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#2d1f3d" stop-opacity="0"/>
+    </linearGradient>
+    <!-- 整体顶部底部暗角 -->
+    <linearGradient id="vshade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0f0a17" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#0f0a17" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0f0a17" stop-opacity="0.45"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 背景立绘 -->
+  <rect width="960" height="260" fill="url(#bg)"/>
+  <!-- 左侧文字遮罩 -->
+  <rect width="960" height="260" fill="url(#shade)"/>
+  <!-- 顶底暗角 -->
+  <rect width="960" height="260" fill="url(#vshade)"/>
+
+  <!-- 装饰：魔法符文圈（左下） -->
+  <circle cx="120" cy="215" r="38" fill="none" stroke="#b8a4d4" stroke-width="1" opacity="0.35"/>
+  <circle cx="120" cy="215" r="28" fill="none" stroke="#b8a4d4" stroke-width="0.8" opacity="0.25"/>
+
+  <!-- 装饰：星点 -->
+  <g fill="#d4c5e8" opacity="0.7">
+    <circle cx="60" cy="40" r="1.2"/>
+    <circle cx="180" cy="25" r="0.9"/>
+    <circle cx="250" cy="60" r="1"/>
+    <circle cx="90" cy="90" r="0.7"/>
+    <circle cx="320" cy="35" r="0.8"/>
+    <circle cx="400" cy="80" r="1"/>
+  </g>
+
+  <!-- 标题文字 -->
+  <text x="45" y="95" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="38" font-weight="700" fill="#f4ecff">
+    女巫的折耳猫
+  </text>
+  <!-- 副标题 -->
+  <text x="47" y="125" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="400" fill="#b8a4d4">
+    witchcat  ·  Backend Developer
+  </text>
+  <!-- 装饰线 -->
+  <line x1="47" y1="142" x2="160" y2="142" stroke="#8e7bb5" stroke-width="1.5" opacity="0.7"/>
+  <!-- 标签 -->
+  <text x="47" y="168" font-family="'Segoe UI', sans-serif" font-size="13" fill="#d4c5e8">
+    Java  ·  Python  ·  Rust  ·  C#
+  </text>
+  <text x="47" y="190" font-family="'Segoe UI', sans-serif" font-size="13" fill="#b8a4d4">
+    微服务  ·  分布式系统  ·  FastAPI
+  </text>
+  <!-- 底部小提示 -->
+  <text x="47" y="230" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8e7bb5" opacity="0.85">
+    ✨ 在学习魔法
+  </text>
+</svg>
