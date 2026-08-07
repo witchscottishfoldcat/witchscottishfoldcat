@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>女巫的折耳猫</h1>
-<p><em>后端开发 &nbsp;/&nbsp; 在职</em></p>
+<p><em>后端开发 &nbsp;/&nbsp; QAQ</em></p>
 <p>Java &nbsp;·&nbsp; Python</p>
 
 </div>
